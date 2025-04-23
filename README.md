@@ -16,7 +16,7 @@
 - 💻 I work with **Node.js**, **Java**, **Python** and **Golang**
 - 🤖 Passionate about **AI** and **Backend Technologies**
 - 🌱 Lifelong learner and tech explorer
-- 🎯 2024 Goals: Contribute more to AI open source projects
+- 🎯 2025 Goals: Contribute more to AI open source projects
 - ⚡ Fun fact: I debug with coffee and solve problems with pizza 🍕
 
 ## 🌈 Weekly Coding Time

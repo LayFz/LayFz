@@ -87,7 +87,7 @@ Golang     ⭐⭐⭐⭐⭐⭐░░░░  60%
 <div align="center">
 
 [![Blog](https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://layfz.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anekoby95@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@layfz.com)
 
 
 **"Make it work, make it right, make it fast"**

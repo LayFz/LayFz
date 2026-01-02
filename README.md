@@ -16,8 +16,7 @@
 - 💻 I work with **Node.js**, **Java**, **Python** and **Golang**
 - 🤖 Passionate about **AI** and **Backend Technologies**
 - 🌱 Lifelong learner and tech explorer
-- 🎯 2025 Goals: Contribute more to AI open source projects
-- ⚡ Fun fact: I debug with coffee and solve problems with pizza 🍕
+- 🎯 2026 Goals: Contribute more to AI open source projects
 
 ## 🌈 Weekly Coding Time
 
@@ -53,18 +52,7 @@ Golang     ⭐⭐⭐⭐⭐⭐░░░░  60%
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=LayFz&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayFz&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
 
 ## 🎯 Featured Projects
 
